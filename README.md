@@ -1,5 +1,5 @@
 # Data Analysis Projects
-A collection of data analysis projects done on a variety of topics. The goal is mainly to develop skills in Python and practice using Python in a data analysis setting.
+A collection of data analysis projects done on a variety of topics. The goal is mainly to develop skills in Python and R as well as to practice using these programming languages in a data analysis setting.
 
 Refer to the individual project's README.mds for more information on them, including key findings and data sources. 
 
